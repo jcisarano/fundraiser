@@ -1,0 +1,5 @@
+SUBJECT:Fundraiser Campaign Invitation
+Hello %s!
+You have been invited to participate in a fundraising campaign:
+%s
+Visit %s and log in with your existing account.

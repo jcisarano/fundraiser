@@ -1,0 +1,7 @@
+SUBJECT:Fundraiser Campaign Invitation
+Hello %s!
+You have been invited to participate in a fundraising campaign!
+%s
+Visit %s to customize your campaign homepage. Your login info is:
+username: %s
+Temporary password: %s
